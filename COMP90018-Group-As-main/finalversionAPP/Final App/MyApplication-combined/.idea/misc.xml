@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BaiduNetdiskDownload/finalversionAPP/Final App/MyApplication-combined/app/src/main/res/layout/activity_volunteer_task_accept.xml" value="0.264" />
+        <entry key="..\:/Users/Zhuqy/Documents/GitHub/COMP90018-Group-As/finalversionAPP/Final App/MyApplication-combined/app/src/main/res/drawable/d_textview_border.xml" value="0.2265" />
+        <entry key="..\:/Users/Zhuqy/Documents/GitHub/COMP90018-Group-As/finalversionAPP/Final App/MyApplication-combined/app/src/main/res/drawable/imagereference.xml" value="0.2265" />
+        <entry key="..\:/Users/Zhuqy/Documents/GitHub/COMP90018-Group-As/finalversionAPP/Final App/MyApplication-combined/app/src/main/res/drawable/references_for_layouts.xml" value="0.2265" />
+        <entry key="..\:/Users/Zhuqy/Documents/GitHub/COMP90018-Group-As/finalversionAPP/Final App/MyApplication-combined/app/src/main/res/drawable/tasklist.xml" value="0.2265" />
+        <entry key="..\:/Users/Zhuqy/Documents/GitHub/COMP90018-Group-As/finalversionAPP/Final App/MyApplication-combined/app/src/main/res/layout/activity_elderly.xml" value="0.25" />
+        <entry key="..\:/Users/Zhuqy/Documents/GitHub/COMP90018-Group-As/finalversionAPP/Final App/MyApplication-combined/app/src/main/res/layout/activity_volunteer_task_accept.xml" value="0.25" />
+        <entry key="..\:/Users/Zhuqy/Documents/GitHub/COMP90018-Group-As/finalversionAPP/Final App/MyApplication-combined/app/src/main/res/layout/activity_volunteer_task_list.xml" value="0.25" />
+        <entry key="..\:/Users/Zhuqy/Documents/GitHub/COMP90018-Group-As/finalversionAPP/Final App/MyApplication-combined/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
